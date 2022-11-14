@@ -1,5 +1,8 @@
-   ## Hello, my name is Bruna D'Aléssio 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=279f82&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=279f82&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruna+D'Aléssio.+👋;I+am+a+System+Analyst.+Currently+studying+A.I.;Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+<br>
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunadalessio&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunadalessio&layout=compact&langs_count=2&theme=gotham"/>
@@ -36,3 +39,12 @@
 </div>
 
 ![Snake animation](https://github.com/brunadalessio/brunadalessio/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=brunadalessio&color=279f82" alt="brunadalessio" />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=279f82&height=120&section=footer"/>
+
+
