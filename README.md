@@ -3,6 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=279f82&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruna+D'Aléssio.+👋;I+am+a+System+Analyst.+Currently+studying+A.I.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <br>
+<br>
+<br>
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunadalessio&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunadalessio&layout=compact&langs_count=4&theme=gotham"/>
+</div>
+
+<br>
   
    ## 🚀 Skills
   
