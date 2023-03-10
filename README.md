@@ -33,7 +33,7 @@
 </div>
 <br>
 
-   ### Most used languages 
+   ### Most Used Languages 
    
    <br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunadalessio&layout=compact&langs_count=3&theme=gotham&hide=php"/>
