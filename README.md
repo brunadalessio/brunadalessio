@@ -31,13 +31,7 @@
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
    
 </div>
-<br>
 
-   ### Most Used Languages 
-   
-   <br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunadalessio&layout=compact&langs_count=3&theme=gotham&hide=php"/>
-  
 <br>
 
 ![Snake animation](https://github.com/brunadalessio/brunadalessio/blob/output/github-contribution-grid-snake.svg)
