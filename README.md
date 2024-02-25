@@ -29,12 +29,6 @@
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
    
 </div>
-
-<br>
-
-![Snake animation](https://github.com/brunadalessio/brunadalessio/blob/output/github-contribution-grid-snake.svg)
-
-<br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=brunadalessio&color=279f82" alt="brunadalessio" />
 </div>
